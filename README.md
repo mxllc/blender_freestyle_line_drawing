@@ -12,5 +12,5 @@ blender2935 --background --python ./data_processing_tools/render_object.py -- --
 
 This code is available for Blender(>=2.80) tested under Blender 2.93.5 in Ubuntu.
 
-For more reference, please see my blog.
+For more reference, please see [my blog](https://maxlin3104.github.io/post/2021/10/line-rendering-in-blender/).
 
